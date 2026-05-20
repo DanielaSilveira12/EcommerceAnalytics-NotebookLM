@@ -1,4 +1,4 @@
-# DataAnalytics-NotebookLM
+# EcommerceAnalytics-NotebookLM
 
 ## Contexto
 Guia de estudos sobre Ecommerce Analytics utilizando materiais do canal Ecommerce Pro e Jerry Strazzeri, ambos do Youtube; conteúdo escrito a partir de um resumo sobre Entendimento de Negócios para Ecommerce, desenvolvido com Gemini Plus; e conteúdo adicional adquirido com Deep Research através da pesquisa "Análise Estratégica de Métricas de Performance no E-commerce".
